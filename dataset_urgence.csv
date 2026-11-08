@@ -1,0 +1,40 @@
+texte,label
+"Bonjour, je voudrais commander un pain s'il vous plaît",1
+"Il fait beau aujourd'hui, on va se promener ?",1
+"Est-ce que tu as l'heure ?",1
+"Je rentre tranquillement à la maison.",1
+"Il fait beau aujourd'hui, on va se promener au parc ?",1
+"Est-ce que tu as l'heure s'il vous plaît ?",1
+"Je rentre tranquillement à la maison en bus.",1
+"C'est combien ce livre ?",1
+"On se retrouve ce soir à vingt heures ?",1
+"Le match de football était vraiment super hier.",1
+"J'attends mon train sur le quai numéro quatre.",1
+"Tu peux me passer le sel s'il te plaît ?",1
+"Il y a un léger retard sur la ligne de métro.",2
+"Je crois que j'ai perdu mes clés de voiture.",2
+"Il y a une petite fuite d'eau dans la cuisine.",2
+"Mon téléphone a un peu de mal à charger.",2
+"Attention, il y a un problème là !",3
+"Je ne me sens pas très bien, aidez-moi un peu",3
+"Attention, il y a un problème sur la route là-bas !",3
+"Je ne me sens pas très bien, j'ai des vertiges.",3
+"Aidez-moi un peu à porter ce carton s'il vous plaît.",3
+"Il y a une bague bizarre qui traîne dans le couloir.",3
+"Quelqu'un fait beaucoup de bruit à côté.",3
+"Arrêtez ! Ne faites pas ça !",4
+"Arrêtez ! Ne faites pas ça, c'est dangereux !",4
+"Je vous demande de quitter les lieux immédiatement.",4
+"Il y a une situation tendue dans le magasin.",4
+"Ne m'approchez pas, restez à votre place !",4
+"Au secours ! Au meurtre ! Aidez-moi vite !",5
+"Laissez-moi partir, arrêtez de me toucher !",5
+"Au feu, sortez tous du bâtiment immédiatement !",5
+"Au secours, au feu, sortez tous du bâtiment !",5
+"Laissez-moi partir, arrêtez de me toucher de force !",5
+"Au secours, il y a un intrus armé chez moi !",5
+"Aidez-moi, je suis en train de m'étouffer !",5
+"Au secours, quelqu'un m'attaque dans la rue !",5
+"Appelez la police tout de suite, au secours !",5
+"Au secours, au secours, sauvez-moi !",5
+"Au secours",5

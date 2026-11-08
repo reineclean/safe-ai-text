@@ -1,0 +1,5 @@
+venv/
+modele_sauvegarde/
+resultats_entrainement/
+*.wav
+__pycache__/
